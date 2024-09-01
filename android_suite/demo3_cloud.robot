@@ -2,7 +2,7 @@
 Library     AppiumLibrary
 
 Test Teardown       Close Application
-#Cloud 
+#Cloud 22
 *** Keywords ***
 Wait And Click Element
     [Arguments]     ${locator}
